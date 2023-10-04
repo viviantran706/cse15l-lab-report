@@ -24,7 +24,7 @@ us form the /home directory to /lecture1/ directory. Else nothing was printed.
 This did not give us an error becuase it did do its job of changing out directory.
 ```
 
-![Image]([https://raw.githubusercontent.com/viviantran706/cse15l-lab-report/main/Screenshot%202023-10-04%20153658.png](https://raw.githubusercontent.com/viviantran706/cse15l-lab-report/main/Screenshot%202023-10-04%20153729.png))
+![Image](https://raw.githubusercontent.com/viviantran706/cse15l-lab-report/main/Screenshot%202023-10-04%20153729.png)
 ```
 The working directory before running this command was /home.
 
