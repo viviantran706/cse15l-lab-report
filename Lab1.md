@@ -1,4 +1,4 @@
-# Lab 1 Reoort -  Remote Access and FileSystem (Week 1)
+# Lab 1 Report -  Remote Access and FileSystem (Week 1)
 
 ##  Command - cd 
 
