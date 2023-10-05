@@ -56,7 +56,10 @@ The outpit was not an error.
 ```
 The current directory is /home.
 
-The reaosn why the output were a list of all the files is because ls shows what files or directories are in the current director (folder) there fore if we looked in at the files we would see that with in the messages folder the outputs would be en-us.txt es-mx.txt and zh-cn.txt.
+The reaosn why the output were a list of all the files is because ls shows what files
+or directories are in the current director (folder) there fore if we looked in at the
+files we would see that with in the messages folder the outputs would be en-us.txt
+es-mx.txt and zh-cn.txt.
 
 This is not an error
 ```
@@ -64,7 +67,9 @@ This is not an error
 ```
 The current directory is /home.
 
-The reason why this is the output is because ls will attempt to list out information about th efiles with in the folder. SO when ls to a file will just print out that argument becuase there are no other files in there.
+The reason why this is the output is because ls will attempt to list out information
+about th efiles with in the folder. SO when ls to a file will just print out that
+argument becuase there are no other files in there.
 
 There are no errors with this command.
 ```
@@ -75,7 +80,8 @@ There are no errors with this command.
 ```
 The current directory is /home.
 
-The reason why the output is this is becuase cat, it prompts you to input text inand when you enter it it will echo back (which is shown in the screenshot).
+The reason why the output is this is becuase cat, it prompts you to input text in and
+when you enter it it will echo back (which is shown in the screenshot).
 
 There are no errors.
 ```
@@ -85,7 +91,8 @@ There are no errors.
 ```
 The current directory is /home.
 
-The output prints "Is a directory" because when you try to use cat on a direcctory it is not a vaild thing. Therefore that is why it prints this message.
+The output prints "Is a directory" because when you try to use cat on a direcctory it
+is not a vaild thing. Therefore that is why it prints this message.
 
 There are no errors wiht this.
 ```
@@ -94,7 +101,9 @@ There are no errors wiht this.
 ```
 The current directroy is /home.
 
-The output prints what is in the file. Because cat is used or displaying the thinsg with in the text files. Therefore opening the file will show that it will print exactly what is in the file.
+The output prints what is in the file. Because cat is used or displaying the thinsg with
+in the text files. Therefore opening the file will show that it will print exactly what
+is in the file.
 
 There are no errors with this
 ```
