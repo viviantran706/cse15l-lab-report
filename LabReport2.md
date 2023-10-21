@@ -43,3 +43,5 @@ Terminal when loging onto my ieng6 account (with being asked for  the password):
 
 ----
 # Part 3
+
+Something that I learned that form week 3, was that there is a shortcut to loging on to our ieng6 accoount. Becuase for the pass few weeks I have been doing it through the long way. Where I would have to enter the password the whole time. Through this process, I learned more mkdir .ssh, but more specficiallt abour how mkdir works. I learned that creates a directory with in the current directory which can be a good way to create directories to store more files and other directories.
