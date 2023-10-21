@@ -15,7 +15,7 @@
 
 ------------------------------------------------------------------------------
 
-![Image](https://raw.githubusercontent.com/viviantran706/cse15l-lab-report/main/Screenshot%202023-10-18%20190342.png)
+![Image](https://raw.githubusercontent.com/viviantran706/cse15l-lab-report/main/Screenshot%202023-10-18%20190330.png)
 1. Looking at the method it called, it called the first method. Which goes to the second if statment because we called for the
  "add-message" which will slit the query from the '='. This method will just get it to return the word onto the page.
 2. The relevant arguments to the method is the num, returnValue, newWord, and stri.
