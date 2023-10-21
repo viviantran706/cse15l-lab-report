@@ -14,7 +14,6 @@
      change form the previous one becuase every different word will have a different and new array. THe sole purpose of this it
      call for the first element in the array to be added to the String returnValue.
 
-------------------------------------------------------------------------------
 
 ![Image](https://raw.githubusercontent.com/viviantran706/cse15l-lab-report/main/Screenshot%202023-10-18%20190330.png)
 1. Looking at the method it called, it called the first method. Which goes to the second if statment because we called for the
@@ -32,6 +31,15 @@
 
 ------------
 # Part 2
+
+Private key for my SSH key (on my computer):
+![Image](https://raw.githubusercontent.com/viviantran706/cse15l-lab-report/main/Screenshot%202023-10-21%20145957.png)
+
+Public key for my SSH(in my remote ieng6 account):
+![Image](https://raw.githubusercontent.com/viviantran706/cse15l-lab-report/main/Screenshot%202023-10-21%20150026.png)
+
+Terminal when loging onto my ieng6 account (with being asked for  the password):
+![Image](https://raw.githubusercontent.com/viviantran706/cse15l-lab-report/main/Screenshot%202023-10-21%20153405.png)
 
 ----
 # Part 3
