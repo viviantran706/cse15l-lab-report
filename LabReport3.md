@@ -44,7 +44,6 @@ Looking at teh command find. The 4 intresting command line options to use these 
 find [options] [path] [expression]
 `
 
-```
 
 Looking at -name, this command prompt tells the find command to search for the file by its name
 and what ever it is followed by that is the name that the find command will search for.
@@ -62,5 +61,3 @@ find ./technical -name "*"
 This would fina all the fiels in the **./technical** with out any type of specification.
 The point of htis command prompt isto search for all the files in the **./technical** directory 
 This is good to retreieve all the iteam in the directory.
-
-```
