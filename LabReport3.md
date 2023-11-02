@@ -4,25 +4,19 @@
 
 A input that produces a failure
 
-`
-
-
 public void testReverseInPlace() {
     int[] input1 = { 3 };
     ArrayExamples.reverseInPlace(input1);
     assertArrayEquals(new int[]{ 3 }, input1);
 	}
 
- 
-`
-
 Input that does not produces a failure:
-`
+
 public void testReversed() {
     int[] input1 = { };
     assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
   }
-`
+
 
 ![Image](https://raw.githubusercontent.com/viviantran706/cse15l-lab-reports/main/Screenshot%202023-04-20%20123739.png)
 `
