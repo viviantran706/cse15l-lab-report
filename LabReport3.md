@@ -3,12 +3,17 @@
 # Part 1- Bugs
 
 A input that produces a failure
+
 `
+
+
 public void testReverseInPlace() {
     int[] input1 = { 3 };
     ArrayExamples.reverseInPlace(input1);
     assertArrayEquals(new int[]{ 3 }, input1);
 	}
+
+ 
 `
 
 Input that does not produces a failure:
