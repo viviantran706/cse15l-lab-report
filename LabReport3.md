@@ -10,6 +10,8 @@ public void testReverseInPlace() {
     assertArrayEquals(new int[]{ 3 }, input1);
 	}
 ```
+
+
 Input that does not produces a failure:
 ```
 public void testReversed() {
