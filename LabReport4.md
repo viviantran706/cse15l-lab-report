@@ -19,6 +19,7 @@ Started form steps 4.
 # Step 7 - Edit the Code File ListExamples.java
 
 ![Image](https://raw.githubusercontent.com/viviantran706/cse15l-lab-report/main/Screenshot%202023-11-19%20202316.png)
+
 *Keys pressed: vim + <space> + ListExamples, <ctrl + end>, <up> siz times, press <1 +e> then <i>, <delete>, push 2 in, <escape>, <:wq>*
 
 
@@ -31,4 +32,4 @@ then <up><up><up><enter> to access the next commands `java -cp .:lib/hamcrest-co
 # Step 9 - Commit and Push
 ![Image](https://raw.githubusercontent.com/viviantran706/cse15l-lab-report/main/Screenshot%202023-11-19%20201410.png)
 
-*Keys pressed: entered `git add .` `git commit` then `git push`
+*Keys pressed: entered `git add .` `git commit` then `git push`*
